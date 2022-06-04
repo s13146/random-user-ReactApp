@@ -1,0 +1,37 @@
+.app-background {
+    background-color: #bee3ff;
+    min-height: 100vh;
+    text-align: center;
+}
+h3 {
+    font-family: "Avenir Next";
+    font-size: 1.5em;
+    padding: 3%;
+}
+.main-context {
+
+    margin: 0 auto;
+    background-color: #ec645b;
+    width: 500px;
+    height: min-content;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 10px 10px 26px 0px rgba(0, 0, 0, 0.35);
+}
+.person-data {
+    font-family: "Avenir Next";
+    text-align: left;
+    padding: 3px;
+}
+button {
+    background: transparent;
+    border-style: double;
+    padding: 20px;
+    margin: 50px;
+    color: #ec645b;
+}
+
+button:hover {
+    cursor: pointer;
+    background: white;
+}
